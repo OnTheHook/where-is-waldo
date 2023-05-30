@@ -1,0 +1,6 @@
+.links {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    gap: 20px;
+}

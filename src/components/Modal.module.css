@@ -1,0 +1,10 @@
+.modal {
+    display: flex;
+    flex-direction: column;
+    background: lightgreen;
+    width: max-content;
+    padding: 4px;
+    z-index: 2;
+    position: absolute;
+    list-style: none;
+}
